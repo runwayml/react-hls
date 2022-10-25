@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/devcshort/react-hls#README",
   "dependencies": {
-    "hls.js": "^0.14.17"
+    "hls.js": "^1.2.4"
   },
   "peerDependencies": {
     "react": "^16.13.1",
